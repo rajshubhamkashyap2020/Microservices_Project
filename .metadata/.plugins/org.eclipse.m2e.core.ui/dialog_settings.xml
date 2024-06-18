@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Sourabh\eclipse-workspace-microservice\eurekaServer"/>
+			<item value="C:\Users\Sourabh\eclipse-workspace-microservice\employeeService"/>
 			<item value="C:\Users\Sourabh\Downloads\employeeService"/>
 			<item value="C:\Users\Sourabh\Downloads\eurekaServer"/>
 			<item value="C:\Users\Sourabh\Downloads\employee"/>
